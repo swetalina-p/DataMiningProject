@@ -1,0 +1,10 @@
+Requirements:
+1.	System should have Python 3+ (64-bit)
+2.	Pandas library needs to be installed
+3.	The input file path should contain the below files:
+		CGMData.csv
+		InsulinData.csv
+		main.py
+Steps to Execute:
+1.	Run main.py
+2.	After running, an output file with name Results.csv will get generated
